@@ -87,14 +87,14 @@ public class Controller implements ActionListener {
 
 		} else if (ob == joinForm.bt_checkid) {
 			MemberInfoDAO dao = new MemberInfoDAO();
-			
+			/*
 			String id=null;
 			String str = dao.ch(id);
 			if(str == joinForm.tf_id.getText()) {
 				joinForm.showMsg("이미 존재하는 아이디입니다");
 				System.out.println("성공");
 			}
-			
+			*/
 				
 			
 			
